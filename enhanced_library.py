@@ -6,7 +6,7 @@
 #  and ensuring no duplicates.
 
 #Existing Library Data:
-
+ 
 #library = [("1984", "George Orwell"), ("Brave New World", "Aldous Huxley")]
 #- Add functionality to insert new books into `library`. 
 # Ensure that adding a duplicate book is handled appropriately.
